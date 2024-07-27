@@ -86,10 +86,5 @@ pip install -r requirements.txt
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
-
-Feel free to replace `https://github.com/yourusername/maritime-data-analysis.git` with the actual URL of your GitHub repository.
