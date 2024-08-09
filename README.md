@@ -1,8 +1,6 @@
 # Vessel-Identity-Detector
 This project is under my summer internship'24 at Bharat Electronics Limited. as a machine learning trainee
 
----
-
 ## Maritime Data Analysis and MMSI Classification
 
 This repository contains code and resources for analyzing maritime data, performing data augmentation and standardization, training a RandomForestClassifier for MMSI classification, and creating various visualizations.
