@@ -80,9 +80,3 @@ pip install -r requirements.txt
 
    Open `visualization.ipynb` and run all cells to create various visualizations to understand the data better.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-
-
----
